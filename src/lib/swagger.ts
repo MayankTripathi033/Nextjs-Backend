@@ -9,7 +9,7 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: 'http://localhost:3000/api', // Base URL for your API
+      url: 'https://nextjs-backend-ten.vercel.app/api', // Base URL for your API
     },
   ],
 };
